@@ -8,3 +8,5 @@ The LED is attached to the pin 0 of the attiny, which is also the MOSI pin.
 The arduino is programmed via ICSP. You can get a ICSP programmer for under 3 USD on aliexpress.
 
 If you have questions, I`m @eliabieri on twitter.
+
+![alt tag](https://raw.githubusercontent.com/eliabieri/barebone-attiny85-duino/master/image.jpg)
